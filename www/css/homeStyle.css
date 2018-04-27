@@ -57,12 +57,12 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: #14392b;
+    color: #2e8463;
 }
 
 /* mouse over link */
 a:hover {
-    color: #2e8463;
+    color: #3caa80;
 }
 
 /* selected link */
